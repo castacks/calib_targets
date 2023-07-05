@@ -1,0 +1,8 @@
+*.pyc
+*.png
+*.jpg
+data/
+Data/
+
+.vscode/
+*.vscode-workspace
